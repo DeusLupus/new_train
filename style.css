@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	color: orange;
+	background-color: blue;
+	background-image: url("astrotrain.jpe");
+	background-size: 50%;
+}
+.jumbotron {
+	background-image: url("bullet_train.jpg");
+	background-size: auto 100%;
+}
+table {
+	border: 2px;
+	border-style: double;
+	border-color: white;
+}
+.btn {
+	margin: 1em;
+}
+footer {
+	background-color: orange;
+	color: blue;
+}
