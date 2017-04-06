@@ -4,6 +4,7 @@ body {
 	background-color: blue;
 	background-image: url("astrotrain.jpe");
 	background-size: 50%;
+	background-attachment: fixed;
 }
 .jumbotron {
 	background-image: url("bullet_train.jpg");
